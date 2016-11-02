@@ -29,7 +29,7 @@
           <div class="pull-left flip left-top">
             <div class="links">
               <ul>
-                <li class="mobile"><i class="fa fa-phone"></i>No number</li>
+                <li class="mobile"><i class="fa fa-phone"></i>SUnnnjdfalknkjadnfaj</li>
                 <li class="email"><a href="mailto:info@marketshop.com"><i class="fa fa-envelope"></i>info@furniturebazaar.com</a></li>
               </ul>
             </div>
